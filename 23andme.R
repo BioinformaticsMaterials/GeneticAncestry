@@ -1,5 +1,5 @@
 #23andME raw data for funsies 
-#http://www.vincebuffalo.com/2012/03/12/23andme-gwascat.html
+# Please note this script is assembled from the following blog:  http://www.vincebuffalo.com/2012/03/12/23andme-gwascat.html
 
 #snpStats
 
